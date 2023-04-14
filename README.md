@@ -3,4 +3,4 @@
 
 <p align="center">Coded by ☠️ Xorg & Infamous Koala 🐨</p>
 
-![image](/Resources/logo.png)
+<p align="center">![image](/Resources/logo.png)</p>
