@@ -6,3 +6,5 @@
 <p align="center">
   <img width="300" height="200" src="/Resources/logo.png">
 </p>
+
+<p align = "center">Made with Python and C#<p>
