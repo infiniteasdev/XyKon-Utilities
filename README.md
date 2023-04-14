@@ -2,4 +2,3 @@
 <h3 align="center">Open Source Discord Utilities (Coming soon)</h3>
 
 <p align="center">Made by ☠️ Xorg, W/ The Help of Infamous Koala 🐨</p>
-!img[](/Resources/logo.png)
