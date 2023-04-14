@@ -2,4 +2,4 @@
 <h3 align="center">Open Source Discord Utilities (Coming soon)</h3>
 
 <p align="center">Made by ☠️ Xorg, W/ The Help of Infamous Koala 🐨</p>
-![](https://raw.githubusercontent.com/infiniteasdev/X-Y-K-O-N-Utilities/8d1cb0ad53f51efefd415b68e989f7cd601f6914/Resources/logo.png "Xykon logo")
+![](https://raw.githubusercontent.com/infiniteasdev/X-Y-K-O-N-Utilities/8d1cb0ad53f51efefd415b68e989f7cd601f6914/Resources/logo.png?raw=true)
