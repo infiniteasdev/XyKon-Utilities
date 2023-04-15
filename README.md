@@ -4,7 +4,7 @@
 <p align="center">Coded by ☠️ Xorg & Infamous Koala 🐨</p>
 
 <p align="center">
-  <img width="300" height="200" src="/Resources/logo.png">
+  <img width="700" height="200" src="/Resources/logo.png">
 </p>
 
 <p align = "center">Made with Python and C#<p>
