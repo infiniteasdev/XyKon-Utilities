@@ -1,4 +1,4 @@
-<h1 align="center">X Y K O N - The new kid in town</h1>
+<h1 align="center">XyKon Utilities - Coming Soon</h1>
 <h3 align="center">Open Source Discord Utilities (Coming soon)</h3>
 
 <p align="center">Coded by Xorg & Infamous Koala!</p>
@@ -7,4 +7,4 @@
   <img width="580" height="200" src="/Resources/logo.png">
 </p>
 
-<p align = "center">Made with Python and C#<p>
+<p align = "center">Made with Python<p>
